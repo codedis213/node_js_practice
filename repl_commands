@@ -1,0 +1,22 @@
+1 + 3
+1 + ( 2 * 3 ) - 4
+x = 10
+var y = 10
+y
+x + y
+console.log("Hello World")
+do { x++; console.log("x: " + x); } while ( x < 5 );
+do { x++; console.log("x: " + x); } while ( x < 5 );
+var x = 0
+do { x++; console.log("x: " + x); } while ( x < 5 );
+var sum = _
+console.log(sum)
+x + y
+console.log(sum)
+var x = 10
+var y = 20
+x + y
+console.log(sum)
+sum
+var sum =_
+console.log(sum)
